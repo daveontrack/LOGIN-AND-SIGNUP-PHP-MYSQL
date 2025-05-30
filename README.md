@@ -1,5 +1,3 @@
-
-
 ### 🚀 Features
 - 📝 **User Registration (Signup)**  
   Create a new account with essential user details.
@@ -25,4 +23,4 @@
 
 ### Notes
 - The new feature, "🔑 Password Reset Functionality," adds a critical security and usability enhancement, allowing users to recover their accounts securely.
-- If you'd like a different feature, feel free to specify (e.g., "Email Verification," "User Profile Management," etc.), and I can tailor it for you!
+- If you'd like a different feature, feel free to specify (e.g., "Email Verification," "User Profile Management," etc.)
